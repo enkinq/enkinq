@@ -2,7 +2,7 @@
 
 **Indie Game Developer • Game Tech Enthusiast • Freelancer**
 
-I'm a Computer Science student passionate about building games, experimenting with game technology, and exploring creative workflows with open-source tools.
+I'm a Informathic student passionate about building games, experimenting with game technology, and exploring creative workflows with open-source tools.
 
 Currently focused on:
 - 🎮 2D Game Development with Godot
